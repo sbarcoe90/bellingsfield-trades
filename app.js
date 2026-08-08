@@ -1,6 +1,6 @@
 // Paste your Google Form responder link here once the form is created.
 // Example: https://docs.google.com/forms/d/e/FORM_ID/viewform
-const SUGGEST_CONTACT_FORM_URL = "YOUR_GOOGLE_FORM_URL";
+const SUGGEST_CONTACT_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLScP2vZWnmdTD6ocCSF7EA71XTcLWrFeD3uRRZ3mfyUvPg8mvQ/viewform?usp=publish-editor";
 
 
 const directory = document.getElementById("directory");
@@ -12,7 +12,7 @@ const suggestContactBtn = document.getElementById("suggestContactBtn");
 
 if (suggestContactBtn) {
   suggestContactBtn.addEventListener("click", (event) => {
-    if (!SUGGEST_CONTACT_FORM_URL || SUGGEST_CONTACT_FORM_URL === "https://docs.google.com/forms/d/e/1FAIpQLScP2vZWnmdTD6ocCSF7EA71XTcLWrFeD3uRRZ3mfyUvPg8mvQ/viewform?usp=publish-editor") {
+    if (!SUGGEST_CONTACT_FORM_URL || SUGGEST_CONTACT_FORM_URL === "YOUR_GOOGLE_FORM_URL") {
       event.preventDefault();
       alert("Suggestion form is being set up. Please check back soon.");
       return;
