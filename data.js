@@ -2,7 +2,7 @@ const CONTACTS = [
   {
     "category": "Appliance Repair",
     "name": "Lorcan Washing machine",
-    "phone": "353862755275",
+    "phone": "+353862755275",
     "intl": "353862755275"
   },
   {
@@ -433,7 +433,7 @@ const CONTACTS = [
   },
   {
     "category": "Tiler",
-    "name": "Tiler",
+    "name": "Robert tiler",
     "phone": "+353873526606",
     "intl": "353873526606"
   }
