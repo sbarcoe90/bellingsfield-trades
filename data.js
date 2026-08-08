@@ -1,31 +1,31 @@
 const CONTACTS = [
   {
     "category": "Appliance Repair",
-    "name": "Lorcan Washing machine",
+    "name": "Lorcan Washing Machine Repair",
     "phone": "+353862755275",
     "intl": "353862755275"
   },
   {
     "category": "Appliance Repair",
-    "name": "Mark Appliance Fixer",
+    "name": "Mark Appliance Repair",
     "phone": "+353872392579",
     "intl": "353872392579"
   },
   {
     "category": "Appliance Repair",
-    "name": "Petro TV Service",
+    "name": "Petro TV Repair",
     "phone": "+353877083417",
     "intl": "353877083417"
   },
   {
     "category": "Appliance Repair",
-    "name": "Wash mach Repairs Dermot",
+    "name": "Dermot Washing Machine Repair",
     "phone": "+353868425709",
     "intl": "353868425709"
   },
   {
     "category": "Builder / Attic",
-    "name": "Andrew - Builder",
+    "name": "Andrew Builder",
     "phone": "+353892473632",
     "intl": "353892473632"
   },
@@ -37,13 +37,13 @@ const CONTACTS = [
   },
   {
     "category": "Builder / Attic",
-    "name": "Sean (attic floor)",
+    "name": "Sean Attic Flooring",
     "phone": "+353858483551",
     "intl": "353858483551"
   },
   {
     "category": "Builder / Attic",
-    "name": "Steven - Attic And Lader Solutions",
+    "name": "Steven Attic & Ladder Solutions",
     "phone": "+353879835432",
     "intl": "353879835432"
   },
@@ -61,13 +61,13 @@ const CONTACTS = [
   },
   {
     "category": "Carpenter / Joiner",
-    "name": "John PANELLING",
+    "name": "John Panelling",
     "phone": "+353863250491",
     "intl": "353863250491"
   },
   {
     "category": "Carpenter / Joiner",
-    "name": "Josh Long Highfield Carpentery",
+    "name": "Josh Long - Highfield Carpentry",
     "phone": "+353838457442",
     "intl": "353838457442"
   },
@@ -79,19 +79,19 @@ const CONTACTS = [
   },
   {
     "category": "Carpenter / Joiner",
-    "name": "Mike Chippy",
+    "name": "Mike Carpenter",
     "phone": "+353874161659",
     "intl": "353874161659"
   },
   {
     "category": "Chimney / Stove",
-    "name": "Jim (Stove)",
+    "name": "Jim Stove Services",
     "phone": "+353872973817",
     "intl": "353872973817"
   },
   {
     "category": "Cleaning",
-    "name": "Agnes cleaner",
+    "name": "Agnes Cleaner",
     "phone": "+353871472352",
     "intl": "353871472352"
   },
@@ -109,7 +109,7 @@ const CONTACTS = [
   },
   {
     "category": "Cleaning",
-    "name": "Chimney  Cleaner",
+    "name": "Chimney Cleaner",
     "phone": "+353862748325",
     "intl": "353862748325"
   },
@@ -133,7 +133,7 @@ const CONTACTS = [
   },
   {
     "category": "Cleaning",
-    "name": "Kevin The Window Cleaner",
+    "name": "Kevin Window Cleaner",
     "phone": "+353894963307",
     "intl": "353894963307"
   },
@@ -145,7 +145,7 @@ const CONTACTS = [
   },
   {
     "category": "Cleaning",
-    "name": "Lightech Cleaning Solutio",
+    "name": "Lightech Cleaning Solutions",
     "phone": "+353851097542",
     "intl": "353851097542"
   },
@@ -157,7 +157,7 @@ const CONTACTS = [
   },
   {
     "category": "Cleaning",
-    "name": "Naah💖 Cleaner",
+    "name": "Naah Cleaner",
     "phone": "+353872927351",
     "intl": "353872927351"
   },
@@ -169,13 +169,13 @@ const CONTACTS = [
   },
   {
     "category": "Cleaning",
-    "name": "Tamara (Cleaner)",
+    "name": "Tamara Cleaner",
     "phone": "+353830957737",
     "intl": "353830957737"
   },
   {
     "category": "Cleaning",
-    "name": "Tasha Good Cleaning Ireland",
+    "name": "Good Cleaning Ireland - Tasha",
     "phone": "+353896100858",
     "intl": "353896100858"
   },
@@ -193,7 +193,7 @@ const CONTACTS = [
   },
   {
     "category": "Electrician",
-    "name": "Kane Sparks",
+    "name": "Kane Electrician",
     "phone": "+353876081114",
     "intl": "353876081114"
   },
@@ -205,7 +205,7 @@ const CONTACTS = [
   },
   {
     "category": "Electrician",
-    "name": "Mik Electric",
+    "name": "Mik Electrician",
     "phone": "+353868197205",
     "intl": "353868197205"
   },
@@ -217,25 +217,25 @@ const CONTACTS = [
   },
   {
     "category": "EV / Renewable Energy",
-    "name": "Kelly Smartzone Car Charging",
+    "name": "Smartzone Car Charging - Kelly",
     "phone": "+353873670899",
     "intl": "353873670899"
   },
   {
     "category": "Gardening / Landscaping",
-    "name": "Jack Garden",
+    "name": "Jack Gardener",
     "phone": "+353874847691",
     "intl": "353874847691"
   },
   {
     "category": "Gardening / Landscaping",
-    "name": "Kildare gardening",
+    "name": "Kildare Gardening",
     "phone": "+353858203830",
     "intl": "353858203830"
   },
   {
     "category": "Gardening / Landscaping",
-    "name": "Lee Grass Garden",
+    "name": "Lee Gardener",
     "phone": "+353851045088",
     "intl": "353851045088"
   },
@@ -253,13 +253,13 @@ const CONTACTS = [
   },
   {
     "category": "Glazing / Windows & Doors",
-    "name": "Paneless Solutions Window Door And Glazing Repairs",
+    "name": "Paneless Solutions - Window & Door Repairs",
     "phone": "+353877005443",
     "intl": "353877005443"
   },
   {
     "category": "Handyman / Flat-pack",
-    "name": "Flat-packed Joe",
+    "name": "Joe Flat-Pack Assembly",
     "phone": "+353857480113",
     "intl": "353857480113"
   },
@@ -277,13 +277,13 @@ const CONTACTS = [
   },
   {
     "category": "Other Home Service",
-    "name": "Alan Drive Way",
+    "name": "Alan Driveway Services",
     "phone": "+353879175050",
     "intl": "353879175050"
   },
   {
     "category": "Other Home Service",
-    "name": "Alan Smoke Alarm",
+    "name": "Alan Smoke Alarm Services",
     "phone": "+353876568039",
     "intl": "353876568039"
   },
@@ -301,13 +301,13 @@ const CONTACTS = [
   },
   {
     "category": "Painter & Decorator",
-    "name": "Archie Wallpaper",
+    "name": "Archie Wallpapering",
     "phone": "+353894425576",
     "intl": "353894425576"
   },
   {
     "category": "Painter & Decorator",
-    "name": "Bart Paitner",
+    "name": "Bart Painter",
     "phone": "+353851242002",
     "intl": "353851242002"
   },
@@ -319,7 +319,7 @@ const CONTACTS = [
   },
   {
     "category": "Painter & Decorator",
-    "name": "Martin  Painter",
+    "name": "Martin Painter",
     "phone": "+353872239026",
     "intl": "353872239026"
   },
@@ -337,19 +337,19 @@ const CONTACTS = [
   },
   {
     "category": "Pet Services",
-    "name": "Dog Groomer Tom",
+    "name": "Tom Dog Groomer",
     "phone": "+353876552471",
     "intl": "353876552471"
   },
   {
     "category": "Pet Services",
-    "name": "Houch Dog Trainer Athy",
+    "name": "Houch Dog Trainer - Athy",
     "phone": "+353867300353",
     "intl": "353867300353"
   },
   {
     "category": "Pet Services",
-    "name": "Irene Doggie",
+    "name": "Irene Dog Services",
     "phone": "+353860765086",
     "intl": "353860765086"
   },
@@ -361,7 +361,7 @@ const CONTACTS = [
   },
   {
     "category": "Plumber",
-    "name": "Graeme - Plummer",
+    "name": "Graeme Plumber",
     "phone": "+353852209592",
     "intl": "353852209592"
   },
@@ -373,19 +373,19 @@ const CONTACTS = [
   },
   {
     "category": "Plumber",
-    "name": "Paul Bellingsfield (plumber)",
+    "name": "Paul Plumber - Bellingsfield",
     "phone": "+353857484030",
     "intl": "353857484030"
   },
   {
     "category": "Plumber",
-    "name": "Tom Plumber Bellingsfield",
+    "name": "Tom Plumber - Bellingsfield",
     "phone": "+353862651264",
     "intl": "353862651264"
   },
   {
     "category": "Taxi / Transport",
-    "name": "Akm Taxi",
+    "name": "AKM Taxi",
     "phone": "+353894141259",
     "intl": "353894141259"
   },
@@ -397,13 +397,13 @@ const CONTACTS = [
   },
   {
     "category": "Taxi / Transport",
-    "name": "Man With Van Dave",
+    "name": "Dave Man with Van",
     "phone": "+353858331533",
     "intl": "353858331533"
   },
   {
     "category": "Taxi / Transport",
-    "name": "Man With Van kilcullen",
+    "name": "Man with Van - Kilcullen",
     "phone": "+353863255984",
     "intl": "353863255984"
   },
@@ -427,13 +427,13 @@ const CONTACTS = [
   },
   {
     "category": "Tiler",
-    "name": "Greg tiler",
+    "name": "Greg Tiler",
     "phone": "+353876666461",
     "intl": "353876666461"
   },
   {
     "category": "Tiler",
-    "name": "Robert tiler",
+    "name": "Robert Tiler",
     "phone": "+353873526606",
     "intl": "353873526606"
   }
