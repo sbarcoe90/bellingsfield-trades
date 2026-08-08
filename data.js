@@ -2,7 +2,7 @@ const CONTACTS = [
   {
     "category": "Appliance Repair",
     "name": "Lorcan Washing machine",
-    "phone": "0 86 275 5275",
+    "phone": "353862755275",
     "intl": "353862755275"
   },
   {
