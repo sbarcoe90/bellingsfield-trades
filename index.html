@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f766e">
+  <title>Bellingsfield Trades Directory</title>
+  <meta name="description" content="A community directory of trades and services shared in the Bellingsfield residents' WhatsApp group.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <div>
+        <p class="eyebrow">Bellingsfield Residents</p>
+        <h1>Trades & Services Directory</h1>
+        <p class="sub">Quick access to local tradespeople and services previously shared in the residents' WhatsApp group.</p>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="toolbar" aria-label="Directory controls">
+      <label class="search">
+        <span class="sr-only">Search directory</span>
+        <input id="searchInput" type="search" placeholder="Search name, trade or number…" autocomplete="off">
+      </label>
+      <select id="categoryFilter" aria-label="Filter by category">
+        <option value="">All categories</option>
+      </select>
+    </section>
+
+    <div class="meta">
+      <span id="resultCount"></span>
+      <button id="clearBtn" class="link-btn" type="button">Clear filters</button>
+    </div>
+
+    <section id="directory" class="directory" aria-live="polite"></section>
+
+    <footer>
+      <p>This directory is community-maintained. Contact details may change over time; please verify before relying on them.</p>
+    </footer>
+  </main>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
