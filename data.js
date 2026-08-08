@@ -174,6 +174,12 @@ const CONTACTS = [
     "intl": "353896100858"
   },
   {
+    "category": "Cleaning",
+    "name": "D•S Car Detailing",
+    "phone": "+353851190148",
+    "intl": "353851190148"
+  },
+  {
     "category": "Electrician",
     "name": "Conor Keaveney Electrician",
     "phone": "+353877820884",
