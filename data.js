@@ -121,12 +121,6 @@ const CONTACTS = [
   },
   {
     "category": "Cleaning",
-    "name": "Gary Window Cleaner",
-    "phone": "+353858271556",
-    "intl": "353858271556"
-  },
-  {
-    "category": "Cleaning",
     "name": "Katrina Cleaner",
     "phone": "+353863779526",
     "intl": "353863779526"
