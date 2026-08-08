@@ -12,7 +12,7 @@ const suggestContactBtn = document.getElementById("suggestContactBtn");
 
 if (suggestContactBtn) {
   suggestContactBtn.addEventListener("click", (event) => {
-    if (!SUGGEST_CONTACT_FORM_URL || SUGGEST_CONTACT_FORM_URL === "YOUR_GOOGLE_FORM_URL") {
+    if (!SUGGEST_CONTACT_FORM_URL || SUGGEST_CONTACT_FORM_URL === "https://docs.google.com/forms/d/e/1FAIpQLScP2vZWnmdTD6ocCSF7EA71XTcLWrFeD3uRRZ3mfyUvPg8mvQ/viewform?usp=publish-editor") {
       event.preventDefault();
       alert("Suggestion form is being set up. Please check back soon.");
       return;
