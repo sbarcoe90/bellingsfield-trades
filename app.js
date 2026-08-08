@@ -1,9 +1,29 @@
+// Paste your Google Form responder link here once the form is created.
+// Example: https://docs.google.com/forms/d/e/FORM_ID/viewform
+const SUGGEST_CONTACT_FORM_URL = "YOUR_GOOGLE_FORM_URL";
+
 
 const directory = document.getElementById("directory");
 const searchInput = document.getElementById("searchInput");
 const categoryFilter = document.getElementById("categoryFilter");
 const resultCount = document.getElementById("resultCount");
 const clearBtn = document.getElementById("clearBtn");
+const suggestContactBtn = document.getElementById("suggestContactBtn");
+
+if (suggestContactBtn) {
+  suggestContactBtn.addEventListener("click", (event) => {
+    if (!SUGGEST_CONTACT_FORM_URL || SUGGEST_CONTACT_FORM_URL === "YOUR_GOOGLE_FORM_URL") {
+      event.preventDefault();
+      alert("Suggestion form is being set up. Please check back soon.");
+      return;
+    }
+    suggestContactBtn.href = SUGGEST_CONTACT_FORM_URL;
+  });
+
+  if (SUGGEST_CONTACT_FORM_URL && SUGGEST_CONTACT_FORM_URL !== "YOUR_GOOGLE_FORM_URL") {
+    suggestContactBtn.href = SUGGEST_CONTACT_FORM_URL;
+  }
+}
 
 const categories = [...new Set(CONTACTS.map(c => c.category))].sort((a,b) => a.localeCompare(b));
 categories.forEach(category => {
