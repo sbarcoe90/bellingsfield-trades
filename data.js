@@ -91,6 +91,12 @@ const CONTACTS = [
   },
   {
     "category": "Cleaning",
+    "name": "D•S Car Detailing",
+    "phone": "+353851190148",
+    "intl": "353851190148"
+  },
+  {
+    "category": "Cleaning",
     "name": "Agnes Cleaner",
     "phone": "+353871472352",
     "intl": "353871472352"
@@ -172,12 +178,6 @@ const CONTACTS = [
     "name": "Good Cleaning Ireland - Tasha",
     "phone": "+353896100858",
     "intl": "353896100858"
-  },
-  {
-    "category": "Cleaning",
-    "name": "D•S Car Detailing",
-    "phone": "+353851190148",
-    "intl": "353851190148"
   },
   {
     "category": "Electrician",
