@@ -360,7 +360,7 @@ const CONTACTS = [
     "intl": "353862586525"
   },
   {
-    "category": "Outdoor Living",
+    "category": "Gardening / Landscaping",
     "name": "Two Islands Outdoor Living",
     "phone": "086 258 3474",
     "intl": "353862583474"
