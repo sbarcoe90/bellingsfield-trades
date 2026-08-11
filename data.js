@@ -373,13 +373,13 @@ const CONTACTS = [
   },
   {
     "category": "Plumber",
-    "name": "Paul Plumber - Bellingsfield",
+    "name": "Paul Plumber",
     "phone": "085 748 4030",
     "intl": "353857484030"
   },
   {
     "category": "Plumber",
-    "name": "Tom Plumber - Bellingsfield",
+    "name": "Tom Plumber",
     "phone": "086 265 1264",
     "intl": "353862651264"
   },
