@@ -484,5 +484,23 @@ const CONTACTS = [
   "name": "Fiona Malone McCormack - Maths Grinds",
   "phone": "087 784 7766",
   "intl": "353877847766"
+},
+  {
+  "category": "Teachers / Grinds",
+  "name": "Spanish & Geography Grinds",
+  "phone": "089 237 4204",
+  "intl": "353892374204"
+},
+{
+  "category": "Teachers / Grinds",
+  "name": "Primary School Tutor",
+  "phone": "086 196 9911",
+  "intl": "353861969911"
+},
+{
+  "category": "Teachers / Grinds",
+  "name": "Junior Cycle Maths Tutoring",
+  "phone": "089 448 5475",
+  "intl": "353894485475"
 }
 ];
