@@ -175,7 +175,7 @@ const CONTACTS = [
   },
   {
     "category": "Car Services",
-    "name": "D•S Car Detailing / Cleaning / Washing",
+    "name": "D•S Car Detailing (Cleaning / Washing)",
     "phone": "085 119 0148",
     "intl": "353851190148"
   },
