@@ -516,6 +516,12 @@ const CONTACTS = [
     "intl": "353852480480"
   },
   {
+  "category": "Teachers / Grinds",
+  "name": "Lydia - Irish & English Grinds",
+  "phone": "083 889 2920",
+  "intl": "353838892920"
+  },
+  {
     "category": "Teachers / Grinds",
     "name": "Fiona Malone McCormack - Maths Grinds",
     "phone": "087 784 7766",
