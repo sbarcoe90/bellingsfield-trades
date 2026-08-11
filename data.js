@@ -60,6 +60,12 @@ const CONTACTS = [
     "intl": "353879835432"
   },
   {
+  "category": "Cakes / Baking",
+  "name": "SugarBliss By Sarah - Cakes & Cupcakes",
+  "phone": "085 830 7937",
+  "intl": "353858307937"
+  },
+  {
     "category": "Cakes / Baking",
     "name": "Naas Cupcakes",
     "phone": "086 864 5993",
@@ -118,6 +124,12 @@ const CONTACTS = [
     "name": "Uxue Merino - Childminder / Babysitter",
     "phone": "087 714 6977",
     "intl": "353877146977"
+  },
+  {
+  "category": "Childcare / Babysitting",
+  "name": "Dina Childminder",
+  "phone": "089 430 4321",
+  "intl": "353894304321"
   },
   {
     "category": "Chimney / Stove",
@@ -240,6 +252,12 @@ const CONTACTS = [
     "intl": "353830957737"
   },
   {
+  "category": "Cleaning",
+  "name": "Valentina Cleaner",
+  "phone": "085 883 0409",
+  "intl": "353858830409"
+  },
+  {
     "category": "Electrician",
     "name": "Andy Kelly Electrician",
     "phone": "085 122 0345",
@@ -348,16 +366,10 @@ const CONTACTS = [
     "intl": "353879175050"
   },
   {
-    "category": "Other Home Service",
-    "name": "Alan Smoke Alarm Services",
+    "category": "Electrician",
+    "name": "Alan Electrician",
     "phone": "087 656 8039",
     "intl": "353876568039"
-  },
-  {
-    "category": "Other Home Service",
-    "name": "Charlie All Watch",
-    "phone": "086 258 6525",
-    "intl": "353862586525"
   },
   {
     "category": "Gardening / Landscaping",
