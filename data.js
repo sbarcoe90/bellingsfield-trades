@@ -60,10 +60,10 @@ const CONTACTS = [
     "intl": "353879835432"
   },
   {
-  "category": "Cakes / Baking",
-  "name": "SugarBliss By Sarah - Cakes & Cupcakes",
-  "phone": "085 830 7937",
-  "intl": "353858307937"
+    "category": "Cakes / Baking",
+    "name": "SugarBliss By Sarah - Cakes & Cupcakes",
+    "phone": "085 830 7937",
+    "intl": "353858307937"
   },
   {
     "category": "Cakes / Baking",
@@ -126,10 +126,10 @@ const CONTACTS = [
     "intl": "353877146977"
   },
   {
-  "category": "Childcare / Babysitting",
-  "name": "Dina Childminder",
-  "phone": "089 430 4321",
-  "intl": "353894304321"
+    "category": "Childcare / Babysitting",
+    "name": "Dina Childminder",
+    "phone": "089 430 4321",
+    "intl": "353894304321"
   },
   {
     "category": "Chimney / Stove",
@@ -141,7 +141,8 @@ const CONTACTS = [
     "category": "Cleaning",
     "name": "Agnes Cleaner",
     "phone": "087 147 2352",
-    "intl": "353871472352"
+    "intl": "353871472352",
+    "lastShared": "2025-08-30"
   },
   {
     "category": "Cleaning",
@@ -153,7 +154,8 @@ const CONTACTS = [
     "category": "Cleaning",
     "name": "Baiano Cleaner",
     "phone": "087 629 7886",
-    "intl": "353876297886"
+    "intl": "353876297886",
+    "lastShared": "2026-05-12"
   },
   {
     "category": "Cleaning",
@@ -165,7 +167,8 @@ const CONTACTS = [
     "category": "Cleaning",
     "name": "Cormac O'Regan - Windows, Gutters & Chimneys",
     "phone": "086 274 8325",
-    "intl": "353862748325"
+    "intl": "353862748325",
+    "lastShared": "2026-08-05"
   },
   {
     "category": "Cleaning",
@@ -195,13 +198,15 @@ const CONTACTS = [
     "category": "Cleaning",
     "name": "Kevin Window Cleaner",
     "phone": "089 275 6133",
-    "intl": "353892756133"
+    "intl": "353892756133",
+    "lastShared": "2026-05-07"
   },
   {
     "category": "Cleaning",
     "name": "Leinster Hygiene Services",
     "phone": "085 209 4876",
-    "intl": "353852094876"
+    "intl": "353852094876",
+    "lastShared": "2025-08-13"
   },
   {
     "category": "Cleaning",
@@ -219,7 +224,8 @@ const CONTACTS = [
     "category": "Cleaning",
     "name": "Luzinette Cleaner",
     "phone": "083 860 4971",
-    "intl": "353838604971"
+    "intl": "353838604971",
+    "lastShared": "2026-03-23"
   },
   {
     "category": "Cleaning",
@@ -237,7 +243,8 @@ const CONTACTS = [
     "category": "Cleaning",
     "name": "Olga Cleaner",
     "phone": "089 422 5027",
-    "intl": "353894225027"
+    "intl": "353894225027",
+    "lastShared": "2026-03-23"
   },
   {
     "category": "Cleaning",
@@ -249,13 +256,15 @@ const CONTACTS = [
     "category": "Cleaning",
     "name": "Tamara Cleaner",
     "phone": "083 095 7737",
-    "intl": "353830957737"
+    "intl": "353830957737",
+    "lastShared": "2026-07-01"
   },
   {
-  "category": "Cleaning",
-  "name": "Valentina Cleaner",
-  "phone": "085 883 0409",
-  "intl": "353858830409"
+    "category": "Cleaning",
+    "name": "Valentina Cleaner",
+    "phone": "085 883 0409",
+    "intl": "353858830409",
+    "lastShared": "2026-02-25"
   },
   {
     "category": "Electrician",
@@ -528,10 +537,10 @@ const CONTACTS = [
     "intl": "353852480480"
   },
   {
-  "category": "Teachers / Grinds",
-  "name": "Lydia - Irish & English Grinds",
-  "phone": "083 889 2920",
-  "intl": "353838892920"
+    "category": "Teachers / Grinds",
+    "name": "Lydia - Irish & English Grinds",
+    "phone": "083 889 2920",
+    "intl": "353838892920"
   },
   {
     "category": "Teachers / Grinds",
