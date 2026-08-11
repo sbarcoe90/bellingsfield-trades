@@ -174,8 +174,8 @@ const CONTACTS = [
     "intl": "353830187376"
   },
   {
-    "category": "Cleaning",
-    "name": "D•S Car Detailing",
+    "category": "Car Services",
+    "name": "D•S Car Detailing / Cleaning / Washing",
     "phone": "085 119 0148",
     "intl": "353851190148"
   },
