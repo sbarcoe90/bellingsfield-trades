@@ -460,5 +460,29 @@ const CONTACTS = [
     "name": "Devine Plumbing",
     "phone": "085 288 9357",
     "intl": "353852889357"
-  }
+  },
+  {
+  "category": "Outdoor Living",
+  "name": "Two Islands Outdoor Living",
+  "phone": "086 258 3474",
+  "intl": "353862583474"
+},
+{
+  "category": "Builder / Attic",
+  "name": "PT Attic Conversions",
+  "phone": "087 912 7682",
+  "intl": "353879127682"
+},
+{
+  "category": "Teachers / Grinds",
+  "name": "Shane Mangan - Maths Grinds",
+  "phone": "085 141 1693",
+  "intl": "353851411693"
+},
+{
+  "category": "Teachers / Grinds",
+  "name": "Fiona Malone McCormack - Maths Grinds",
+  "phone": "087 784 7766",
+  "intl": "353877847766"
+}
 ];
