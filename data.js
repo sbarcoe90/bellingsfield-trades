@@ -1,6 +1,12 @@
 const CONTACTS = [
   {
     "category": "Appliance Repair",
+    "name": "Dermot Washing Machine Repair",
+    "phone": "086 842 5709",
+    "intl": "353868425709"
+  },
+  {
+    "category": "Appliance Repair",
     "name": "Lorcan Washing Machine Repair",
     "phone": "086 275 5275",
     "intl": "353862755275"
@@ -18,12 +24,6 @@ const CONTACTS = [
     "intl": "353877083417"
   },
   {
-    "category": "Appliance Repair",
-    "name": "Dermot Washing Machine Repair",
-    "phone": "086 842 5709",
-    "intl": "353868425709"
-  },
-  {
     "category": "Builder / Attic",
     "name": "Andrew Builder",
     "phone": "089 247 3632",
@@ -37,6 +37,18 @@ const CONTACTS = [
   },
   {
     "category": "Builder / Attic",
+    "name": "Dylan Rooney Attic Conversions",
+    "phone": "083 346 1591",
+    "intl": "353833461591"
+  },
+  {
+    "category": "Builder / Attic",
+    "name": "PT Attic Conversions",
+    "phone": "087 912 7682",
+    "intl": "353879127682"
+  },
+  {
+    "category": "Builder / Attic",
     "name": "Sean Attic Flooring",
     "phone": "085 848 3551",
     "intl": "353858483551"
@@ -46,6 +58,18 @@ const CONTACTS = [
     "name": "Steven Attic & Ladder Solutions",
     "phone": "087 983 5432",
     "intl": "353879835432"
+  },
+  {
+    "category": "Cakes / Baking",
+    "name": "Naas Cupcakes",
+    "phone": "086 864 5993",
+    "intl": "353868645993"
+  },
+  {
+    "category": "Cakes / Baking",
+    "name": "Pink Rose Naas - Chloe",
+    "phone": "083 026 7653",
+    "intl": "353830267653"
   },
   {
     "category": "Carpenter / Joiner",
@@ -84,16 +108,22 @@ const CONTACTS = [
     "intl": "353874161659"
   },
   {
+    "category": "Childcare / Babysitting",
+    "name": "Amy Babysitter",
+    "phone": "085 869 3164",
+    "intl": "353858693164"
+  },
+  {
+    "category": "Childcare / Babysitting",
+    "name": "Uxue Merino - Childminder / Babysitter",
+    "phone": "087 714 6977",
+    "intl": "353877146977"
+  },
+  {
     "category": "Chimney / Stove",
     "name": "Jim Stove Services",
     "phone": "087 297 3817",
     "intl": "353872973817"
-  },
-  {
-    "category": "Cleaning",
-    "name": "D•S Car Detailing",
-    "phone": "085 119 0148",
-    "intl": "353851190148"
   },
   {
     "category": "Cleaning",
@@ -115,7 +145,13 @@ const CONTACTS = [
   },
   {
     "category": "Cleaning",
-    "name": "Chimney Cleaner",
+    "name": "Cleaning Doctor - David Baulch",
+    "phone": "087 410 6038",
+    "intl": "353874106038"
+  },
+  {
+    "category": "Cleaning",
+    "name": "Cormac O'Regan - Windows, Gutters & Chimneys",
     "phone": "086 274 8325",
     "intl": "353862748325"
   },
@@ -127,6 +163,18 @@ const CONTACTS = [
   },
   {
     "category": "Cleaning",
+    "name": "D•S Car Detailing",
+    "phone": "085 119 0148",
+    "intl": "353851190148"
+  },
+  {
+    "category": "Cleaning",
+    "name": "Good Cleaning Ireland - Tasha",
+    "phone": "089 610 0858",
+    "intl": "353896100858"
+  },
+  {
+    "category": "Cleaning",
     "name": "Katrina Cleaner",
     "phone": "086 377 9526",
     "intl": "353863779526"
@@ -134,8 +182,8 @@ const CONTACTS = [
   {
     "category": "Cleaning",
     "name": "Kevin Window Cleaner",
-    "phone": "089 496 3307",
-    "intl": "353894963307"
+    "phone": "089 275 6133",
+    "intl": "353892756133"
   },
   {
     "category": "Cleaning",
@@ -157,9 +205,27 @@ const CONTACTS = [
   },
   {
     "category": "Cleaning",
+    "name": "Luzinette Cleaner",
+    "phone": "083 860 4971",
+    "intl": "353838604971"
+  },
+  {
+    "category": "Cleaning",
     "name": "Naah Cleaner",
     "phone": "087 292 7351",
     "intl": "353872927351"
+  },
+  {
+    "category": "Cleaning",
+    "name": "North Kildare Cleaning - John",
+    "phone": "085 712 3211",
+    "intl": "353857123211"
+  },
+  {
+    "category": "Cleaning",
+    "name": "Olga Cleaner",
+    "phone": "089 422 5027",
+    "intl": "353894225027"
   },
   {
     "category": "Cleaning",
@@ -174,10 +240,10 @@ const CONTACTS = [
     "intl": "353830957737"
   },
   {
-    "category": "Cleaning",
-    "name": "Good Cleaning Ireland - Tasha",
-    "phone": "089 610 0858",
-    "intl": "353896100858"
+    "category": "Electrician",
+    "name": "Andy Kelly Electrician",
+    "phone": "085 122 0345",
+    "intl": "353851220345"
   },
   {
     "category": "Electrician",
@@ -222,10 +288,10 @@ const CONTACTS = [
     "intl": "353873670899"
   },
   {
-    "category": "Gardening / Landscaping",
-    "name": "Jack Gardener",
-    "phone": "087 484 7691",
-    "intl": "353874847691"
+    "category": "Flooring",
+    "name": "Shane Flooring",
+    "phone": "087 392 4995",
+    "intl": "353873924995"
   },
   {
     "category": "Gardening / Landscaping",
@@ -294,6 +360,12 @@ const CONTACTS = [
     "intl": "353862586525"
   },
   {
+    "category": "Outdoor Living",
+    "name": "Two Islands Outdoor Living",
+    "phone": "086 258 3474",
+    "intl": "353862583474"
+  },
+  {
     "category": "Painter & Decorator",
     "name": "Anto Dublin Feature Walls",
     "phone": "086 669 9111",
@@ -336,10 +408,10 @@ const CONTACTS = [
     "intl": "353871911246"
   },
   {
-    "category": "Pet Services",
-    "name": "Tom Dog Groomer",
-    "phone": "087 655 2471",
-    "intl": "353876552471"
+    "category": "Party / Events",
+    "name": "Pat Bouncy Castle",
+    "phone": "086 872 9704",
+    "intl": "353868729704"
   },
   {
     "category": "Pet Services",
@@ -354,10 +426,28 @@ const CONTACTS = [
     "intl": "353860765086"
   },
   {
+    "category": "Pet Services",
+    "name": "Sydney Dog Walker",
+    "phone": "089 213 9683",
+    "intl": "353892139683"
+  },
+  {
+    "category": "Pet Services",
+    "name": "Tom Dog Groomer",
+    "phone": "087 655 2471",
+    "intl": "353876552471"
+  },
+  {
     "category": "Plumber",
     "name": "Dave Plumber",
     "phone": "085 101 0987",
     "intl": "353851010987"
+  },
+  {
+    "category": "Plumber",
+    "name": "Devine Plumbing",
+    "phone": "085 288 9357",
+    "intl": "353852889357"
   },
   {
     "category": "Plumber",
@@ -391,15 +481,15 @@ const CONTACTS = [
   },
   {
     "category": "Taxi / Transport",
-    "name": "Don Taxi",
-    "phone": "086 171 3887",
-    "intl": "353861713887"
-  },
-  {
-    "category": "Taxi / Transport",
     "name": "Dave Man with Van",
     "phone": "085 833 1533",
     "intl": "353858331533"
+  },
+  {
+    "category": "Taxi / Transport",
+    "name": "Don Taxi",
+    "phone": "086 171 3887",
+    "intl": "353861713887"
   },
   {
     "category": "Taxi / Transport",
@@ -415,15 +505,45 @@ const CONTACTS = [
   },
   {
     "category": "Taxi / Transport",
+    "name": "Michael Clark - 8 Seater Taxi Van",
+    "phone": "087 277 1299",
+    "intl": "353872771299"
+  },
+  {
+    "category": "Taxi / Transport",
     "name": "Naas Taxi",
     "phone": "085 248 0480",
     "intl": "353852480480"
   },
   {
-    "category": "Tiler",
-    "name": "Gareth Byrne Tiler",
-    "phone": "085 123 2943",
-    "intl": "353851232943"
+    "category": "Teachers / Grinds",
+    "name": "Fiona Malone McCormack - Maths Grinds",
+    "phone": "087 784 7766",
+    "intl": "353877847766"
+  },
+  {
+    "category": "Teachers / Grinds",
+    "name": "Junior Cycle Maths Tutoring",
+    "phone": "089 448 5475",
+    "intl": "353894485475"
+  },
+  {
+    "category": "Teachers / Grinds",
+    "name": "Primary School Tutor",
+    "phone": "086 196 9911",
+    "intl": "353861969911"
+  },
+  {
+    "category": "Teachers / Grinds",
+    "name": "Shane Mangan - Maths Grinds",
+    "phone": "085 141 1693",
+    "intl": "353851411693"
+  },
+  {
+    "category": "Teachers / Grinds",
+    "name": "Spanish & Geography Grinds",
+    "phone": "089 237 4204",
+    "intl": "353892374204"
   },
   {
     "category": "Tiler",
@@ -444,63 +564,9 @@ const CONTACTS = [
     "intl": "353873526606"
   },
   {
-    "category": "Builder / Attic",
-    "name": "Dylan Rooney Attic Conversions",
-    "phone": "083 346 1591",
-    "intl": "353833461591"
-  },
-  {
-    "category": "Electrician",
-    "name": "Andy Kelly Electrician",
-    "phone": "085 122 0345",
-    "intl": "353851220345"
-  },
-  {
-    "category": "Plumber",
-    "name": "Devine Plumbing",
-    "phone": "085 288 9357",
-    "intl": "353852889357"
-  },
-  {
-  "category": "Outdoor Living",
-  "name": "Two Islands Outdoor Living",
-  "phone": "086 258 3474",
-  "intl": "353862583474"
-},
-{
-  "category": "Builder / Attic",
-  "name": "PT Attic Conversions",
-  "phone": "087 912 7682",
-  "intl": "353879127682"
-},
-{
-  "category": "Teachers / Grinds",
-  "name": "Shane Mangan - Maths Grinds",
-  "phone": "085 141 1693",
-  "intl": "353851411693"
-},
-{
-  "category": "Teachers / Grinds",
-  "name": "Fiona Malone McCormack - Maths Grinds",
-  "phone": "087 784 7766",
-  "intl": "353877847766"
-},
-  {
-  "category": "Teachers / Grinds",
-  "name": "Spanish & Geography Grinds",
-  "phone": "089 237 4204",
-  "intl": "353892374204"
-},
-{
-  "category": "Teachers / Grinds",
-  "name": "Primary School Tutor",
-  "phone": "086 196 9911",
-  "intl": "353861969911"
-},
-{
-  "category": "Teachers / Grinds",
-  "name": "Junior Cycle Maths Tutoring",
-  "phone": "089 448 5475",
-  "intl": "353894485475"
-}
+    "category": "Waste / Recycling",
+    "name": "Tom - Greyhound Recycling",
+    "phone": "086 144 5817",
+    "intl": "353861445817"
+  }
 ];
