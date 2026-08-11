@@ -427,6 +427,12 @@ const CONTACTS = [
   },
   {
     "category": "Tiler",
+    "name": "Gareth Byrne Tiler",
+    "phone": "085 123 2943",
+    "intl": "353851232943"
+  },
+  {
+    "category": "Tiler",
     "name": "Greg Tiler",
     "phone": "087 666 6461",
     "intl": "353876666461"
@@ -436,23 +442,23 @@ const CONTACTS = [
     "name": "Robert Tiler",
     "phone": "087 352 6606",
     "intl": "353873526606"
-  }
+  },
   {
-  "category": "Builder / Attic",
-  "name": "Dylan Rooney Attic Conversions",
-  "phone": "083 346 1591",
-  "intl": "353833461591"
-},
-{
-  "category": "Electrician",
-  "name": "Andy Kelly Electrician",
-  "phone": "085 122 0345",
-  "intl": "353851220345"
-},
-{
-  "category": "Plumber",
-  "name": "Devine Plumbing",
-  "phone": "085 288 9357",
-  "intl": "353852889357"
-}
+    "category": "Builder / Attic",
+    "name": "Dylan Rooney Attic Conversions",
+    "phone": "083 346 1591",
+    "intl": "353833461591"
+  },
+  {
+    "category": "Electrician",
+    "name": "Andy Kelly Electrician",
+    "phone": "085 122 0345",
+    "intl": "353851220345"
+  },
+  {
+    "category": "Plumber",
+    "name": "Devine Plumbing",
+    "phone": "085 288 9357",
+    "intl": "353852889357"
+  }
 ];
