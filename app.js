@@ -1,4 +1,3 @@
-// Paste your Google Form responder link here once the form is created.
 const SUGGEST_CONTACT_FORM_URL = "https://docs.google.com/forms/d/e/1FAIpQLScP2vZWnmdTD6ocCSF7EA71XTcLWrFeD3uRRZ3mfyUvPg8mvQ/viewform?usp=publish-editor";
 
 const directory = document.getElementById("directory");
