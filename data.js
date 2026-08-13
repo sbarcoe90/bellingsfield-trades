@@ -543,37 +543,43 @@ const CONTACTS = [
     "intl": "353852480480"
   },
   {
-    "category": "Teachers / Grinds",
+    "category": "Grinds & Tutoring",
     "name": "Lydia - Irish & English Grinds",
     "phone": "083 889 2920",
     "intl": "353838892920"
   },
   {
-    "category": "Teachers / Grinds",
+    "category": "Grinds & Tutoring",
     "name": "Fiona Malone McCormack - Maths Grinds",
     "phone": "087 784 7766",
     "intl": "353877847766"
   },
   {
-    "category": "Teachers / Grinds",
+    "category": "Grinds & Tutoring",
     "name": "Junior Cycle Maths Tutoring",
     "phone": "089 448 5475",
     "intl": "353894485475"
   },
   {
-    "category": "Teachers / Grinds",
+    "category": "Grinds & Tutoring",
     "name": "Primary School Tutor",
     "phone": "086 196 9911",
     "intl": "353861969911"
   },
   {
-    "category": "Teachers / Grinds",
+    "category": "Grinds & Tutoring",
     "name": "Shane Mangan - Maths Grinds",
     "phone": "085 141 1693",
     "intl": "353851411693"
   },
   {
-    "category": "Teachers / Grinds",
+    "category": "Grinds & Tutoring",
+    "name": "Kumon Maths & English",
+    "phone": "085 855 8119",
+    "intl": "353858558119"
+  },
+  {
+    "category": "Grinds & Tutoring",
     "name": "Spanish & Geography Grinds",
     "phone": "089 237 4204",
     "intl": "353892374204"
