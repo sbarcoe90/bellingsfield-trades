@@ -357,6 +357,12 @@ const CONTACTS = [
     "intl": "353857480113"
   },
   {
+    "category": "Interior Design",
+    "name": "Amy Simply Divine interiors",
+    "phone": "087 987 2925",
+    "intl": "353879872925"
+  },
+  {
     "category": "Handyman / Flat-pack",
     "name": "Michael Handyman",
     "phone": "086 878 5237",
@@ -369,7 +375,7 @@ const CONTACTS = [
     "intl": "353879185169"
   },
   {
-    "category": "Other Home Service",
+    "category": "Gardening / Landscaping",
     "name": "Alan Driveway Services",
     "phone": "087 917 5050",
     "intl": "353879175050"
